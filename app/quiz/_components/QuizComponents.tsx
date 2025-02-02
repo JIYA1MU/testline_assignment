@@ -49,7 +49,7 @@ const QuizComponents = ({ quizData }: QuizPageProps) => {
     }, 1000);
 
     return () => clearInterval(interval);
-  }, [submitted,score, router]);
+  }, [submitted]);
 
   const progressPercentage = ((900 - timeLeft) / 900) * 100;
 
