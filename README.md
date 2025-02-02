@@ -35,6 +35,10 @@ Install dependencies:
 
 Open http://localhost:3000 in your browser.
 
+## 🌐 Deployed Website
+
+https://testline-assignment-seven.vercel.app/
+
 # 📸 Screenshots
 
 Here are some screenshots of the application:
